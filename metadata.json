@@ -1,0 +1,6 @@
+{
+  "name": "Gurukripa Rajasthani Restaurant & Dhaba",
+  "description": "Authentic 100% Pure Vegetarian Rajasthani Restaurant & Dhaba at Lalpur Chowk, Dhamtari Road, Raipur. Serving Royal Dal Bati Churma Thalis, Sweet Thalis, Rajasthani Special Thalis, and live event food stalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
